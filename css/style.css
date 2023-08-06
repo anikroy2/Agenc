@@ -1076,6 +1076,7 @@ max-width: 1344px ;
 
 #slider_part .container .main_slide{
     position: relative;
+    padding-bottom: 227px ;
 }
 
   
@@ -1131,4 +1132,153 @@ max-width: 1344px ;
   
    margin-right: 20px;
 }
+
+/* =================================== */
+/* =================================== */
+/* =================================== */
+/* ==================Form part================= */
+
+#form_part {
+    padding: 150px  252px 150px  140px;
+    background: #4958df;
+}
+
+
+#form_part .container .row .left{
+    height: 100%;
+    
+    display: flex;
+    align-items: center;
+
+}
+
+#form_part .container .row .left .details h4{
+    color: var(--dark-01, #151515);
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+
+
+#form_part .container .row .left .details p{
+    width: 514px ;
+    color: var(--dark-03, #7B7B7B);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+
+#form_part .container .row .left .details .p1{
+    margin-top: 10px;
+    width: 526px;
+    color: var(--dark-03, #737373);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+
+
+#form_part .container .row .form{
+    width: 536px;
+}
+
+
+
+#form_part .container .row .form form{
+    background: #F4EFEF;
+    width: 100%;
+    padding: 61px 43px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+#form_part .container .row .form form h4{
+    color: var(--dark-01, #151515);
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+
+#form_part .container .row .form form label{
+    color: var(--dark-01, #151515);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+
+
+#form_part .container .row .form form input{
+    color: var(--dark-05, #D0D0D0);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+    padding: 19px 23px;
+    border-radius: 10px;
+    border: 1px solid var(--dark-06, #E8E8E8);
+    outline: 0;
+    margin-bottom:20px  ;
+}
+
+
+#form_part .container .row .form form button{
+    padding: 19px 0;
+    border-radius: 10px;
+    background: var(--primary-color, #6A4DF4);
+    margin-top: 10px;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ============================ */
+/* ============================ */
+/* ============================ */
+/* ================footer start================ */
+
 
